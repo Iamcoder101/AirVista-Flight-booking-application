@@ -40,23 +40,20 @@ The system integrates **Amadeus Flight Offers API** for real-time flight data.
 
 ## 📷 Screenshots
 
-<img width="496" height="322" alt="image" src="https://github.com/user-attachments/assets/637ff797-a956-4931-b1f2-8471316f1c31" />
-
-
 ### Flight Search UI
-![Flight Search](<img width="495" height="635" alt="image" src="https://github.com/user-attachments/assets/8e82dd64-abb3-4841-a72c-e00b9d00da16" />
+![Flight Search](<img width="496" height="322" alt="image" src="https://github.com/user-attachments/assets/10cbaf75-9357-4c98-ac89-eb33ba79fac6" />
+<img width="495" height="635" alt="image" src="https://github.com/user-attachments/assets/05cc2818-87b9-492b-8280-147343d52b79" />
 )
 
 ### Booking Confirmation
-![Booking Confirmation](<img width="495" height="635" alt="image" src="https://github.com/user-attachments/assets/fdac03fb-11d4-49fd-8c74-ba71780f6d05" />
-)
+![Booking Confirmation](![7](https://github.com/user-attachments/assets/5185c7c8-ff4a-42cc-bcc1-696a77a8d338))
 
 ### PDF Ticket
-![PDF Ticket](<img width="1000" height="324" alt="image" src="https://github.com/user-attachments/assets/4bac742d-b60d-43be-8e8b-55e19a3f4e05" />
-)
+![PDF Ticket](<img width="1000" height="324" alt="image" src="https://github.com/user-attachments/assets/8307ba4b-ef03-415c-85af-ae98066d74b5" />)
 
 ### Email Notification
-*(Email confirmation example)*
+<img width="1513" height="698" alt="image" src="https://github.com/user-attachments/assets/1b8c74c0-2eca-4f17-b596-f56a036091c4" />
+
 
 ---
 
