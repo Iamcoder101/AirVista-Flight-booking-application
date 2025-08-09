@@ -1,9 +1,4 @@
-Got it ✅
-Here’s your **professional, visually appealing README.md** for AirVista, with a banner, badges, clean sections, and no chatbot references:
 
----
-
-````markdown
 # ✈️ AirVista – Flight Booking System
 
 ![AirVista Banner](https://via.placeholder.com/1000x250?text=AirVista+Flight+Booking+System)
