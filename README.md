@@ -1,7 +1,6 @@
 
 # ✈️ AirVista – Flight Booking System
 
-![AirVista Banner](https://via.placeholder.com/1000x250?text=AirVista+Flight+Booking+System)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-Spring%20Boot-blue?style=for-the-badge&logo=java" />
