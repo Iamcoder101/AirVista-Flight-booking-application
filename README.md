@@ -49,7 +49,7 @@ The system integrates **Amadeus Flight Offers API** for real-time flight data.
 ![Booking Confirmation](![7](https://github.com/user-attachments/assets/5185c7c8-ff4a-42cc-bcc1-696a77a8d338))
 
 ### PDF Ticket
-![PDF Ticket](<img width="1000" height="324" alt="image" src="https://github.com/user-attachments/assets/8307ba4b-ef03-415c-85af-ae98066d74b5" />)
+<img width="1000" height="324" alt="image" src="https://github.com/user-attachments/assets/f663f162-69dc-40a8-b241-c696b98d75f3" />
 
 ### Email Notification
 <img width="1513" height="698" alt="image" src="https://github.com/user-attachments/assets/1b8c74c0-2eca-4f17-b596-f56a036091c4" />
