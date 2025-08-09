@@ -98,12 +98,6 @@ Each successful booking sends a downloadable PDF ticket containing:
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Fork the repo, create a branch, and submit a pull request.
-
----
-
 ## 📧 Contact
 
 **Ayesha**
@@ -111,12 +105,3 @@ Contributions are welcome! Fork the repo, create a branch, and submit a pull req
 
 ---
 
-```
-
----
-
-I can also make **custom icons, banners, and badges** for "AirVista" so the README looks like a **real airline product page** instead of just a GitHub project.  
-That way, it will have your own branding rather than placeholder images.  
-
-Do you want me to design that branding too?
-```
