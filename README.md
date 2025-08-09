@@ -41,7 +41,7 @@ The system integrates **Amadeus Flight Offers API** for real-time flight data.
 ## 📷 Screenshots
 
 ### Flight Search UI
-![Flight Search](<img width="496" height="322" alt="image" src="https://github.com/user-attachments/assets/10cbaf75-9357-4c98-ac89-eb33ba79fac6" />
+(<img width="496" height="322" alt="image" src="https://github.com/user-attachments/assets/10cbaf75-9357-4c98-ac89-eb33ba79fac6" />
 <img width="495" height="635" alt="image" src="https://github.com/user-attachments/assets/05cc2818-87b9-492b-8280-147343d52b79" />
 )
 
