@@ -1,0 +1,66 @@
+<!-- src/main/resources/static/confirm_payment.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Confirm Payment</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 40px;
+            text-align: center;
+        }
+        button {
+            padding: 10px 20px;
+            font-size: 18px;
+            background-color: #28a745;
+            color: white;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #218838;
+        }
+        .message {
+            margin-top: 20px;
+            font-size: 16px;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <h2>Confirm Your Payment</h2>
+    <p>Click the button below to confirm your payment and complete the booking.</p>
+
+    <button onclick="confirmPayment()">Confirm Payment</button>
+
+    <div class="message" id="message"></div>
+
+    <script>
+        function getQueryParam(param) {
+            const urlParams = new URLSearchParams(window.location.search);
+            return urlParams.get(param);
+        }
+
+        async function confirmPayment() {
+            const reference = getQueryParam("ref");
+            if (!reference) {
+                document.getElementById("message").innerText = "Booking reference missing.";
+                return;
+            }
+
+            try {
+                const response = await fetch(`/api/bookings/update-payment-status/${reference}?paymentVerified=true`, {
+                    method: 'POST'
+                });
+
+                const text = await response.text();
+                document.getElementById("message").innerText = text;
+            } catch (error) {
+                document.getElementById("message").innerText = "Error confirming payment.";
+            }
+        }
+    </script>
+</body>
+</html>
